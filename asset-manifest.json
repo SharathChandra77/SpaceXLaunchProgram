@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SpaceXLaunchProgram/static/css/main.7a4ec410.chunk.css",
+    "main.js": "/SpaceXLaunchProgram/static/js/main.da25971a.chunk.js",
+    "main.js.map": "/SpaceXLaunchProgram/static/js/main.da25971a.chunk.js.map",
+    "runtime-main.js": "/SpaceXLaunchProgram/static/js/runtime-main.f8bbd28d.js",
+    "runtime-main.js.map": "/SpaceXLaunchProgram/static/js/runtime-main.f8bbd28d.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/SpaceXLaunchProgram/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.848ce6cd.chunk.js": "/SpaceXLaunchProgram/static/js/2.848ce6cd.chunk.js",
+    "static/js/2.848ce6cd.chunk.js.map": "/SpaceXLaunchProgram/static/js/2.848ce6cd.chunk.js.map",
+    "static/js/3.9c517a65.chunk.js": "/SpaceXLaunchProgram/static/js/3.9c517a65.chunk.js",
+    "static/js/3.9c517a65.chunk.js.map": "/SpaceXLaunchProgram/static/js/3.9c517a65.chunk.js.map",
+    "index.html": "/SpaceXLaunchProgram/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/SpaceXLaunchProgram/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.7a4ec410.chunk.css.map": "/SpaceXLaunchProgram/static/css/main.7a4ec410.chunk.css.map",
+    "static/js/2.848ce6cd.chunk.js.LICENSE.txt": "/SpaceXLaunchProgram/static/js/2.848ce6cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8bbd28d.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.848ce6cd.chunk.js",
+    "static/css/main.7a4ec410.chunk.css",
+    "static/js/main.da25971a.chunk.js"
+  ]
+}
